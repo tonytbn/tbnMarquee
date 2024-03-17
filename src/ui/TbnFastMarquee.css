@@ -3,7 +3,7 @@
     align-items: center;
     min-height: 300px;
     height: 100vh;
-    max-height: calc(100vh - 548px);
+    max-height: calc(100vh - 400px);
     padding-bottom: 60px;
     overflow: hidden;
 }
